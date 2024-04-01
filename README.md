@@ -13,9 +13,10 @@
 - Firebase setup
 - Deploying our app to production
 - Create Sign up user Account
+- Implement Sign In User API
+- Created Redux Store with userSlice
 
 # Features
-
 
 - Login/Sign Up
   - Sign In /Sign Up Form
@@ -26,7 +27,7 @@
     - Trailer in background
     - Title & Description
     - MovieSuggestions
-      - MovieLists * N
+      - MovieLists \* N
 - NetflixGPT
-   - Search bar
-   - Movie Suggestions
+  - Search bar
+  - Movie Suggestions
