@@ -41,6 +41,8 @@ const Header = () => {
         navigate("/");
       }
     });
+
+    // this is unsubscribe when components unmounts
     return ()=> unsubscribe();
   }, []);
 
