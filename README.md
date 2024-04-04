@@ -26,11 +26,19 @@
 - Custom Hook for Now Playing Movies
 - Create moviesSlice
 - Update Store with movie data
-- Planning for MainContainer  & SecondaryContainer 
+- Planning for MainContainer  & SecondaryContainer
 - Fetch Data for Trailer Video
 - Update Store with Trailer Video Data
 - Embeded the Youtube video and make it autoplay and mute
 - Tailwind Classes to make MainContainer look awesome
+- Build SecondaryContainer component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browser page amazing with TailwingCSS
+- usePopularMovies Custom Hook
+- useTopRatedMovies Custom Hook
+- useUpcomingMovies Custom Hook
 
 # Features
 
